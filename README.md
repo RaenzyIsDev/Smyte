@@ -6,7 +6,8 @@ A Minecraft Client called Smyte in 1.20.1. Completely FOSS, mod makers are credi
 
 Bit by bit updates located at :https://drive.google.com/drive/folders/1tLUdwtQzJyEs3mlTw15Gq874ntoVbGDz
 
-![image](https://github.com/RaenzyIsDev/Smyte/assets/132928035/da192d41-d8d3-4f22-925d-f4bebc2f388d)
+![image](https://github.com/RaenzyIsDev/Smyte/assets/132928035/e439ef28-24ef-406b-900f-bc7d0fc21ba4)
+
 
 Vibe with the FOSS cat!
 
